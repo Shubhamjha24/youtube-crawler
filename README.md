@@ -1,1 +1,5 @@
-# youtube-crawler
+this is youtube crawler , when we type a keyword (it can be anything) it gives us channelname , channelabout , email , phone no. , subscribers , youtube link , lacation 
+Out oif 30 ( no of long videos , no of reels , long videos avg views , long video comments avg , reel comments avg , reel views avg , long video likes avg , long video 
+dislikes avg , reel video likes avg , reel video dislikes avg , fb link , twitter link , insta link , other links )
+
+LINK=>https://viralpitch.co/admin/adlist/display.php
